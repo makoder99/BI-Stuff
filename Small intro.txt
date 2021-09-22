@@ -1,1 +1,2 @@
-I will upload all kind of BI related stuff maybe codes, dashboards , images and what-nots. Go through all my work if it interests you.
+I will upload all kind of BI related stuff maybe codes, dashboards , images and what-nots. Go through all my work if it interests you. 
+Capture.PNG - The first ever dashboard made by me using Power BI
